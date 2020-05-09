@@ -4,4 +4,4 @@ This repository contains materials for a course on Managing Complexity, Security
 
 Old copy can be found on Benjamin Holland's GitHub - `https://github.com/benjholla/GIAN2016`
 
-This copy is maintained by the members of the Knowledge Centric Software Lab (KCSL), led by Suresh Kothari.
+This is an updated copy, maintained by the members of the Knowledge Centric Software Lab (KCSL), led by Suresh Kothari.
